@@ -3,12 +3,12 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>Portfólio Pastel</title>
+  <title>Portfólio B.E.L</title>
   <link rel="stylesheet" href="style.css" />
 </head>
 <body>
   <header>
-    <h1 class="titulo rosa">Seu Nome</h1>
+    <h1 class="titulo rosa">Equipe B.E.L</h1>
     <nav>
       <ul>
         <li><a href="#sobre">Sobre</a></li>
@@ -19,7 +19,8 @@
   </header>
 
   <section id="sobre">
-    <h2 class="titulo amarelo">Sobre Mim</h2>
+    <h2 class="titulo amarelo">Sobre os membros da equipe</h2>
+    <h3 class="Beatriz</h3>
     <p>Sou uma pessoa apaixonada por tecnologia, design e desenvolvimento web.</p>
   </section>
 
@@ -39,11 +40,14 @@
 
   <section id="contato">
     <h2 class="titulo verde">Contato</h2>
-    <p>Entre em contato via e-mail: <a href="mailto:seuemail@exemplo.com">seuemail@exemplo.com</a></p>
+    <p>Entre em contato via e-mail: <a href="beatriz.pirani@escola.pr.gov.br"
+                                      href="estela.silva.diniz@escola.pr.gov.br"
+                                      href="laura.cavalheiro@escola.pr.gov.br"
+                                      >beatriz.pirani@escola.pr.gov.b</a></p>
   </section>
 
   <footer>
-    <p>&copy; 2025 Seu Nome</p>
+    <p>&copy; 2025 Beatriz Freiberger Pirani</p>
   </footer>
 
   <script src="script.js"></script>
