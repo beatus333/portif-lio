@@ -36,6 +36,11 @@
       <p>Descrição do projeto 2.</p>
       <a href="#">Ver no GitHub</a>
     </div>
+    <div class="projeto">
+      <h3>Projeto 3/h3>
+      <p>Descrição do projeto 2.</p>
+      <a href="#">Ver no GitHub</a>
+     </div>
   </section>
 
   <section id="contato">
@@ -43,7 +48,9 @@
     <p>Entre em contato via e-mail: <a href="beatriz.pirani@escola.pr.gov.br"
                                       href="estela.silva.diniz@escola.pr.gov.br"
                                       href="laura.cavalheiro@escola.pr.gov.br"
-                                      >beatriz.pirani@escola.pr.gov.b</a></p>
+                                      >beatriz.pirani@escola.pr.gov.br</a></p>
+     >estela.silva.diniz@escola.pr.gov.br</a></p>
+    >laura.cavalheiro@escola.pr.gov.br</a></p>
   </section>
 
   <footer>
