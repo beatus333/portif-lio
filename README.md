@@ -46,8 +46,8 @@
   <section id="contato">
     <h2 class="titulo verde">Contato</h2>
     <p>Entre em contato via e-mails: <a href="beatriz.pirani@escola.pr.gov.br"
-                                      href="estela.silva.diniz@escola.pr.gov.br"
-                                      href="laura.cavalheiro@escola.pr.gov.br"
+                                      <a href="estela.silva.diniz@escola.pr.gov.br"
+                                      <a href="laura.cavalheiro@escola.pr.gov.br"
                                       >beatriz.pirani@escola.pr.gov.br</a></p>
                                       >estela.silva.diniz@escola.pr.gov.br</a></p>
                                       >laura.cavalheiro@escola.pr.gov.br</a></p>
