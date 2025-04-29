@@ -20,7 +20,9 @@
 
   <section id="sobre">
     <h2 class="titulo amarelo">Sobre os membros da equipe</h2>
-    <h3 class=>"Beatriz</h3>
+    <h3 class=>Beatriz</h3>
+    <p>Sou uma pessoa apaixonada por tecnologia, design e desenvolvimento web.</p>
+    <h3 class=>Beatriz</h3>
     <p>Sou uma pessoa apaixonada por tecnologia, design e desenvolvimento web.</p>
   </section>
 
