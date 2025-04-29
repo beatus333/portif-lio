@@ -37,20 +37,20 @@
       <a href="#">Ver no GitHub</a>
     </div>
     <div class="projeto">
-      <h3>Projeto 3/h3>
-      <p>Descrição do projeto 2.</p>
+      <h3>Projeto 3</h3>
+      <p>Descrição do projeto 3.</p>
       <a href="#">Ver no GitHub</a>
      </div>
   </section>
 
   <section id="contato">
     <h2 class="titulo verde">Contato</h2>
-    <p>Entre em contato via e-mail: <a href="beatriz.pirani@escola.pr.gov.br"
+    <p>Entre em contato via e-mails: <a href="beatriz.pirani@escola.pr.gov.br"
                                       href="estela.silva.diniz@escola.pr.gov.br"
                                       href="laura.cavalheiro@escola.pr.gov.br"
                                       >beatriz.pirani@escola.pr.gov.br</a></p>
-     >estela.silva.diniz@escola.pr.gov.br</a></p>
-    >laura.cavalheiro@escola.pr.gov.br</a></p>
+                                      >estela.silva.diniz@escola.pr.gov.br</a></p>
+                                      >laura.cavalheiro@escola.pr.gov.br</a></p>
   </section>
 
   <footer>
