@@ -21,7 +21,7 @@
   <section id="sobre">
     <h2 class="titulo amarelo">Sobre os membros da equipe</h2>
     <h3 class=>Beatriz</h3>
-    <p>Sou uma pessoa apaixonada por tecnologia, design e desenvolvimento web.</p>
+    <p>Sou uma profissional eficaz, sempre me empenho profundamente nos projetos que me são empregados, sempre buscando o melhor que se pode atingir. Comunico-me de forma fluida com as pessoas, como também trabalho de forma sublime em equipe, resolvo problemas de modo veloz e inovador. Constantemente busco aprimorar minhas habilidades e conhecimento, dessa forma, meu trabalho estará sempre atualizado e de acordo a necessidade do mercado.</p>
     <h3 class=>Estela</h3>
 <img src="img/Estela.png" alt="Estela membro da equipe B.E.L" width="150">
     <p>Sou uma pessoa criativa, com facilidade para gerar ideias inovadoras e encontrar soluções originais. Possuo exelente comunicação, expressando me de forma clara e objetiva, o que contribui para a construção de relações eficazes. Demonstro também forte espírito de colaboração, destacando me em trabalhos em equipe com atitude proativa, respeito e cooperação.</p>
@@ -38,14 +38,14 @@
       <a href="https://scratch.mit.edu/projects/1017654689">Ver no Scratch</a>
     </div>
     <div class="projeto">
-      <h3>Projeto 2</h3>
-      <p>Descrição do projeto 2.</p>
-      <a href="#">Ver no GitHub</a>
+      <h3>Projeto 2- Aplicativo</h3>
+      <p>Nesse projeto foi realizado um aplicativo para axiliar estudantes que se preparam para o ENEM, com recomendações de artigos e notícis, bem como, sujestões de prosportas de redação com temas prováveis a aserem abordados no ENEM.</p>
+      <a href="https://www.figma.com/design/eS8kkBGUV4VD1umZtSfaW0/Figma-basics?node-id=601-10&t=9JPFQP6gs9SCUsJK-1">Ver no Figma</a>
     </div>
     <div class="projeto">
-      <h3>Projeto 3</h3>
-      <p>Descrição do projeto 3.</p>
-      <a href="#">Ver no GitHub</a>
+      <h3>Projeto 3- Casa do Ipiranga</h3>
+      <p>O projeto da Casa do Ipiranga comtempla a área da escrita em prosa com uso de linguagem formal, ele foi desenvolvido para eleborar uma proposta de resolução e disponibilizar ifomações acerca da situação nociva que se entra a aCasa do Ipiranga .</p>
+      <a href="https://docs.google.com/document/d/e/2PACX-1vQVblu9I6ykkcqJ9wGEx7L0hIuYv7aOKyHQGjMVPvWG3bBdUaUm2CapqMDPDaJ2PL5BmiA4-EpHkeUg/pub">Ver no GooglesDoc</a>
      </div>
   </section>
 
