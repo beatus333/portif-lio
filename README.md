@@ -33,9 +33,9 @@
   <section id="projetos">
     <h2 class="titulo azul">Projetos</h2>
     <div class="projeto">
-      <h3>Projeto 1</h3>
-      <p>Descrição do projeto 1.</p>
-      <a href="#">Ver no GitHub</a>
+      <h3>Projeto 1- Chico Coins</h3>
+      <p>Esse projeto foi desenvolvido por meio da paltaforma Scratch, ele consiste na contação das aventuras e desventuras de três amigos que assaltam um banco. Nesse projeto foi utilizado recorte e montagem de imagens, bem como a criação de desenvolvimento de personagem e narrativa.</p>
+      <a href="https://scratch.mit.edu/projects/1017654689">Ver no Scratch</a>
     </div>
     <div class="projeto">
       <h3>Projeto 2</h3>
