@@ -23,7 +23,7 @@
     <h3 class=>Beatriz</h3>
     <p>Sou uma pessoa apaixonada por tecnologia, design e desenvolvimento web.</p>
     <h3 class=>Estela</h3>
-<img src="img/Estela.png" alt="Descrição da imagem">
+<img src="img/Estela.png" alt="Estela membro da equipe B.E.L"width="200">
     <p>Sou uma pessoa criativa, com facilidade para gerar ideias inovadoras e encontrar soluções originais. Possuo exelente comunicação, expressando me de forma clara e objetiva, o que contribui para a construção de relações eficazes. Demonstro também forte espírito de colaboração, destacando me em trabalhos em equipe com atitude proativa, respeito e cooperação.</p>
      <h3 class=>Laura</h3>
     <img src="" alt="Laura integrante da equipe B.E.L"
