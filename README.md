@@ -21,6 +21,7 @@
   <section id="sobre">
     <h2 class="titulo amarelo">Sobre os membros da equipe</h2>
     <h3 class=>Beatriz</h3>
+    <img src="" alt="Beatriz membro da equipe B.E.L" 
     <p>Sou uma profissional eficaz, sempre me empenho profundamente nos projetos que me são empregados, sempre buscando o melhor que se pode atingir. Comunico-me de forma fluida com as pessoas, como também trabalho de forma sublime em equipe, resolvo problemas de modo veloz e inovador. Constantemente busco aprimorar minhas habilidades e conhecimento, dessa forma, meu trabalho estará sempre atualizado e de acordo a necessidade do mercado.</p>
     <h3 class=>Estela</h3>
 <img src="img/Estela.png" alt="Estela membro da equipe B.E.L" width="150">
