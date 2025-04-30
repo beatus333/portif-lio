@@ -24,6 +24,8 @@
     <p>Sou uma pessoa apaixonada por tecnologia, design e desenvolvimento web.</p>
     <h3 class=>Estela</h3>
     <p>Sou uma pessoa criativa, com facilidade para gerar ideias inovadoras e encontrar soluções originais. Possuo exelente comunicação, expressando me de forma clara e objetiva, o que contribui para a construção de relações eficazes. Demonstro também forte espírito de colaboração, destacando me em trabalhos em equipe com atitude proativa, respeito e cooperação.</p>
+     <h3 class=>Laura</h3>
+    <p>Sou uma pessoa apaixonada por tecnologia, design e desenvolvimento web.</p>
   </section>
 
   <section id="projetos">
