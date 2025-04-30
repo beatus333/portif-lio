@@ -26,7 +26,7 @@
 <img src="img/Estela.png" alt="Estela membro da equipe B.E.L"width="200">
     <p>Sou uma pessoa criativa, com facilidade para gerar ideias inovadoras e encontrar soluções originais. Possuo exelente comunicação, expressando me de forma clara e objetiva, o que contribui para a construção de relações eficazes. Demonstro também forte espírito de colaboração, destacando me em trabalhos em equipe com atitude proativa, respeito e cooperação.</p>
      <h3 class=>Laura</h3>
-    <img src="img/download20250402214955.png" alt="Laura integrante da equipe B.E.L" "width="10">
+    <img src="img/download20250402214955.png" alt="Laura integrante da equipe B.E.L"width="200"
     <p>Sou uma pessoa dedicada e disciplinada, com grande capacidade de organização e planejamento nos estudos. Demonstro constância e comprometimento com prazos, mantendo um ritmo de aprendizado eficaz. Mostro iniciativa para buscar novos conhecimentos e tenho facilidade em aplicar o que aprendo de forma prática.</p>
   </section>
 
